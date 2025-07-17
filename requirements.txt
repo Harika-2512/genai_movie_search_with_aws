@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+faiss-cpu
+sentence-transformers
+requests
+pandas
+google-cloud-aiplatform
+openai
+dotenv
